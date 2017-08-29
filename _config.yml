@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/vinscotti" # the subpath of your site, e.g. /blog/
 url: "0.0.0.0" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
-  avatar: avatar.png
+  title: Vincent Scotti
+  avatar: vjsHeadShot.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
@@ -19,23 +19,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "scottivincentj@gmail.com"
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble:
+  facebook:
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "https://github.com/Chenzoh12"
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram: "vinscotti"
+  linkedin:  "https://www.linkedin.com/in/scottivincent/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter:
   wordpress:
   youtube:
 
