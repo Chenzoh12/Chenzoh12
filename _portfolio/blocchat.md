@@ -2,8 +2,9 @@
 layout: post
 title: Bloc Chat
 feature-img: "img/header_image.png"
-thumbnail-path: "img/blocchat.png"
+thumbnail-path: "img/blocchatMain.png"
 short-description: Bloc Chat is a real-time chat application.
+
 ---
 {:.center}
 ## Bloc Chat: Efficiently simplistic.
